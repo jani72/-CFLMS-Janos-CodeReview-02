@@ -1,0 +1,62 @@
+#header {
+    background-color: rgb(119, 7, 7);
+}
+
+#navigation {
+    background-color: black;
+}
+
+#navset {
+    margin: 0;
+    padding-left: 5px;
+    overflow: hidden;
+    text-decoration: none;
+    color: white;
+    
+}
+
+li {
+    display: inline;
+    list-style-type: none;
+    float: left;
+    margin: 5px;
+}
+
+#header1 {
+    background-color: gray;
+}
+
+#header2{
+    background-color: gray;
+}
+
+#picblock1 {
+
+}
+
+#banner {
+    width: 500px;
+    height: auto;
+}
+
+#picblock2 {
+
+}
+
+#picdescr {
+    background-color: black;
+}
+
+#footer {
+    background-color: black;
+}
+
+.flex{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+p{
+    text-align: center;
+}
